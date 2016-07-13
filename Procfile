@@ -1,1 +1,1 @@
-web: java -jar SampleInsertJar.jar
+web: java -jar target/SampleInsertJar-1.0.jar
