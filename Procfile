@@ -1,1 +1,1 @@
-web: java -jar target/SampleInsertJar-1.0-jar-with-dependencies.jar
+web: java -Dserver.port=$PORT -jar target/SampleInsertJar-1.0-jar-with-dependencies.jar
